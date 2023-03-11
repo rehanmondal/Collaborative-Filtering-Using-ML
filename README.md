@@ -14,4 +14,7 @@ The main purpose of a Recommendation system it'll suggest items to users effortl
 
 ### Project Overview
 ➥	In this book recommendation system we recommend similar books to the reader based on their interest.<br>
-➥	The book recommendation system is used by online websites which provide eBooks like Google play books, open library, good Read’s, etc.<br>
+➥	The book recommendation system is used by online websites which provide eBooks like Google play books, open library etc.<br>
+➥	K nearest Neighbor Algorithm is used to execute the program.<br>
+➥	This Collaborative filtering involves the analysis of the opinions in which the recommendation is provided based on the ratings provided by &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the users. The quality of the item cannot be analyzed in the content based filtering. But the collaborative filtering can expose the quality of &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the item.<br>
+
