@@ -17,7 +17,8 @@ The main purpose of a Recommendation system it'll suggest items to users effortl
 ➥	The book recommendation system is used by online websites which provide eBooks like Google play books, open library etc.<br>
 ➥	K nearest Neighbor Algorithm is used to execute the program where the filtering involves the analysis of the opinions in which the &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;recommendation is provided based on the ratings provided by the users. The quality of the item cannot be analyzed in the content based  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;filtering. But the it can expose the quality of the item.<br>
 ➥	The csv data are taken from <b>kaggle.com</b>.Taken these three datasets:<br>
-       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•  Books<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•  Ratings<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•  User
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•  <code>Books.csv</code><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•  <code>Ratings.csv</code><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•  <code>User.csv</code>
 
-   
+➥ The next process is to train the overall model for which iI have used python language with popular libraries numpy,pandas, scikit learn.   
+➥ In interest degree, interest is the characteristic of the book itself, and it is recommended from the perspective of attractiveness to the target &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;user. It includes the interest of the book itself and the interest of the user. Book interest refers to the attributes of the book itself, including &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;search times, borrowing time, borrowing interval, borrowing times, and renewing times. User interest refers to books that users like, books &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;that have already been borrowed, and so on.
 
