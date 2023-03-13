@@ -37,3 +37,19 @@ The main purpose of a Recommendation system it'll suggest items to users effortl
 In the books file, we have some extra columns which are not required for our task like image URLs. And we will rename the columns of each file as the name of the column contains space, and uppercase letters so we will correct as to make it easy to use.
 Have to remove "Missing" values, redundant values,remove outliers etc.
 
+### Tools and technology
+<p>
+<img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" width="90px;" height="26px;">
+<img src="https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white" width="90px;" height="26px;">
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" width="90px;" height="26px;">
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" width="90px;" height="26px;"><br>
+<img src="https://user-images.githubusercontent.com/125151906/224793907-d220b199-f846-460a-a58c-863a7eafd9d1.png" width="90px;" height="26px;">
+<img src="https://user-images.githubusercontent.com/125151906/224793390-61b56d1a-0068-4ec6-9f24-dcb750ee1070.png" width="90px;" height="26px;">
+
+<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white" width="90px;" height="26px;">
+
+</p>
+
+
+
+
