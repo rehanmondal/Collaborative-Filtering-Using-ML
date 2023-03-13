@@ -21,7 +21,7 @@ The main purpose of a Recommendation system it'll suggest items to users effortl
 ➥ In interest degree, interest is the characteristic of the book itself, and it is recommended from the perspective of attractiveness to the target &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;user. It includes the interest of the book itself and the interest of the user. Book interest refers to the attributes of the book itself, including &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;search times, borrowing time, borrowing interval, borrowing times, and renewing times. User interest refers to books that users like, books &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;that have already been borrowed, and so on.
 ### Data Sets :
 ➥	The csv data are taken from <b>kaggle.com</b>.Taken these three datasets:<br>
-       •  <code>Books.csv</code><br>•  <code>Ratings.csv</code><br>•  <code>User.csv</code>
+       • <code>Books.csv</code> - Contains information about books which contain all the information related to books like an author, title, publication year, etc.<br>• <code>Ratings.csv</code> - Ratings contain information like which user has given how much rating to which book.<br>•  <code>User.csv</code> - It contains registered user’s information like user id, location.
        
 ### Background study   
 ➥ The recommendation users get may not be mined from the data at all but contributed by other users. There are three main steps:<br>
