@@ -27,7 +27,7 @@ The main purpose of a Recommendation system it'll suggest items to users effortl
 ➥ The recommendation users get may not be mined from the data at all but contributed by other users. There are three main steps:<br>
 • &nbsp;&nbsp;	Collecting scoring data, <br>
 • &nbsp;&nbsp;	Finding neighbors, <br>
-• &nbsp;&nbsp;	Generating a recommendation list.
+• &nbsp;&nbsp;	Generating a recommendation list.<br>
 • &nbsp;&nbsp;	Data sets Filtering<br>
 • &nbsp;&nbsp;	Records sorting<br>
 • &nbsp;&nbsp;	Matrix creation<br>
