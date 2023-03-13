@@ -22,7 +22,18 @@ The main purpose of a Recommendation system it'll suggest items to users effortl
 ### Data Sets :
 ➥	The csv data are taken from <b>kaggle.com</b>.Taken these three datasets:<br>
        • <code>Books.csv</code> - Contains information about books which contain all the information related to books like an author, title, publication year, etc.<br>• <code>Ratings.csv</code> - Ratings contain information like which user has given how much rating to which book.<br>•  <code>User.csv</code> - It contains registered user’s information like user id, location.
-       
+      
+### Snapshot
+<img src="https://user-images.githubusercontent.com/125151906/224799768-9a9118f6-01b4-4c7e-93eb-5606b78d84e3.png" width="600px;" height="300px;">
+
+
+
+
+
+
+
+
+
 ### Background study   
 ➥ The recommendation users get may not be mined from the data at all but contributed by other users. There are three main steps:<br>
 • &nbsp;&nbsp;	Collecting scoring data, <br>
