@@ -6,7 +6,7 @@
 - [Project Overview](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
 - [Data Sets](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
 - [Background study](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
-- [Training Data](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+- [Preprocessing Data:](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
 - [Tools](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
 
 ### Introduction 
@@ -33,5 +33,7 @@ The main purpose of a Recommendation system it'll suggest items to users effortl
 • &nbsp;&nbsp;	Matrix creation<br>
 • &nbsp;&nbsp;	Array, List forming<br>
 
-
+### Preprocessing Data 
+In the books file, we have some extra columns which are not required for our task like image URLs. And we will rename the columns of each file as the name of the column contains space, and uppercase letters so we will correct as to make it easy to use.
+Have to remove "Missing" values, redundant values,remove outliers etc.
 
