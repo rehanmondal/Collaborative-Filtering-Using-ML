@@ -24,7 +24,7 @@ The main purpose of a Recommendation system it'll suggest items to users effortl
        • <code>Books.csv</code> - Contains information about books which contain all the information related to books like an author, title, publication year, etc.<br>• <code>Ratings.csv</code> - Ratings contain information like which user has given how much rating to which book.<br>•  <code>User.csv</code> - It contains registered user’s information like user id, location.
       
 ### Snapshot
-<img src="https://user-images.githubusercontent.com/125151906/224801174-24a6fe66-a46d-4b98-9b3e-6f81483132c1.png" width="600px;" height="300px;">
+<img src="https://user-images.githubusercontent.com/125151906/225389348-3e5c500b-d85f-4a00-9008-f2c5023abd7f.png" width="600px;" height="300px;">
 <img src="https://user-images.githubusercontent.com/125151906/225389134-6bb352b1-0e92-4192-b4a4-4b3b63cd5a47.png" width="600px;" height="300px;">
 
 
@@ -53,6 +53,7 @@ Have to remove "Missing" values, redundant values,remove outliers etc.
 <img src="https://user-images.githubusercontent.com/125151906/224798237-35e56356-6e78-4c31-bbae-f9f7f46f6bc2.png" width="90px;" height="28px;">
 <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white" width="90px;" height="28px;">
 </p>
+
 
 
 
