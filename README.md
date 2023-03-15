@@ -25,7 +25,7 @@ The main purpose of a Recommendation system it'll suggest items to users effortl
       
 ### Snapshot
 <img src="https://user-images.githubusercontent.com/125151906/224801174-24a6fe66-a46d-4b98-9b3e-6f81483132c1.png" width="600px;" height="300px;">
-<img src="https://user-images.githubusercontent.com/125151906/224799768-9a9118f6-01b4-4c7e-93eb-5606b78d84e3.png" width="600px;" height="300px;">
+<img src="https://user-images.githubusercontent.com/125151906/225389134-6bb352b1-0e92-4192-b4a4-4b3b63cd5a47.png" width="600px;" height="300px;">
 
 
 ### Background study   
