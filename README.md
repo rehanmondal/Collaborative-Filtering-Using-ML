@@ -41,7 +41,7 @@ The main purpose of a Recommendation system it'll suggest items to users effortl
 In the books file, we have some extra columns which are not required for our task like image URLs. And we will rename the columns of each file as the name of the column contains space, and uppercase letters so we will correct as to make it easy to use.
 Have to remove "Missing" values, redundant values,remove outliers etc.
 
-### Tools and technology
+
 <p>
 <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" width="90px;" height="28px;">
 <img src="https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white" width="90px;" height="28px;">
