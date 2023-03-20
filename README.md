@@ -4,6 +4,11 @@
 <img src="https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white" width="90px;" height="28px;">
 <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" width="90px;" height="28px;">
 <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" width="90px;" height="28px;">
+<img src="https://user-images.githubusercontent.com/125151906/224793907-d220b199-f846-460a-a58c-863a7eafd9d1.png" width="90px;" height="28px;">
+<img src="https://user-images.githubusercontent.com/125151906/224793390-61b56d1a-0068-4ec6-9f24-dcb750ee1070.png" width="90px;" height="28px;">
+<img src="https://user-images.githubusercontent.com/125151906/224798237-35e56356-6e78-4c31-bbae-f9f7f46f6bc2.png" width="90px;" height="28px;">
+<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white" width="90px;" height="28px;">
+</p>
        
 ## Table Content:
 - [Introduction](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
@@ -48,11 +53,6 @@ Have to remove "Missing" values, redundant values,remove outliers etc.
 
 
 
-<img src="https://user-images.githubusercontent.com/125151906/224793907-d220b199-f846-460a-a58c-863a7eafd9d1.png" width="90px;" height="28px;">
-<img src="https://user-images.githubusercontent.com/125151906/224793390-61b56d1a-0068-4ec6-9f24-dcb750ee1070.png" width="90px;" height="28px;">
-<img src="https://user-images.githubusercontent.com/125151906/224798237-35e56356-6e78-4c31-bbae-f9f7f46f6bc2.png" width="90px;" height="28px;">
-<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white" width="90px;" height="28px;">
-</p>
 
 ### Credits
 
