@@ -6,7 +6,6 @@
 - [Data Sets](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
 - [Background study](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
 - [Preprocessing Data:](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
-- [Tools](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
 - [Credits](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
 
 ### Introduction 
